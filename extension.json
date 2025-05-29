@@ -2,7 +2,7 @@
   "name": "DSHOT",
   "apiVersion": "1.0.0",
   "author": "Averelon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This analyzer decodes DSHOT 150, 300, 600 and 1200 frames.",
   "extensions": {
     "DSHOT": {
